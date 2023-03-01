@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    margin: 0 10px 10px 10px;
+    padding: 0;
+    background-color: rgb(157, 228, 239);
+    font-family: 'Playfair Display', serif;
+    color: black solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: stretch;
+}
+
+
+img {
+    width: 350px;
+    height: 250px;
+    align-self: center;
+    }
+
+#pie {
+    align-self: center;
+}
